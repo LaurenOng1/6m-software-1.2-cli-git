@@ -1,0 +1,22 @@
+div#all {
+    text-align: center;
+}
+
+h1 {
+    color: whitesmoke;
+    outline: black solid;
+    padding: 50px;
+    background-color: darkgrey;
+    margin: 20px;
+}
+
+#flag {
+    width:80px;
+    height: 50px;
+}
+
+ul.a {
+    list-style-type: circle;
+    display: inline-block;
+    text-align: start;
+}
